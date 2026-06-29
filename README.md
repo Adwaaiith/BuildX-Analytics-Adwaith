@@ -1,12 +1,12 @@
-**IPL Data Analytics Dashboard
+# IPL Data Analytics Dashboard
 
 ## Dataset Selected
-IPL.csv
+
+**IPL.csv**
 
 ## Why I Selected It
 
-I selected the IPL dataset because it contains detailed ball-by-ball match data and is ideal for data cleaning, SQL analysis, 
-and building a Power BI dashboard to analyze team and player performance.
+I selected the IPL dataset because it contains detailed ball-by-ball match data and is ideal for data cleaning, SQL analysis, and building a Power BI dashboard to analyze team and player performance.
 
 ## Three Business Questions Answered
 
@@ -23,5 +23,4 @@ and building a Power BI dashboard to analyze team and player performance.
 
 ## One Key Insight
 
-The analysis showed that the highest-performing IPL team accumulated significantly more total runs than the other teams, 
-while boundary shots contributed a major portion of the total scoring, highlighting the importance of aggressive batting in modern T20 cricket.
+The analysis showed that the highest-performing IPL team accumulated significantly more total runs than the other teams, while boundary shots contributed a major portion of the total scoring, highlighting the importance of aggressive batting in modern T20 cricket.
