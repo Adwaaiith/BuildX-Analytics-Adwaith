@@ -1,4 +1,4 @@
-IPL Data Analytics Dashboard
+**IPL Data Analytics Dashboard
 
 ## Dataset Selected
 IPL.csv
